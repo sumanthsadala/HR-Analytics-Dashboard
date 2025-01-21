@@ -21,7 +21,7 @@ The **HR Analytics Dashboard** provides an insightful and interactive visualizat
 1. **Job Satisfaction**:
    - Job Satisfaction of the employees has been rated from 1-4, 1 is for low satisfaction and 4 is for high satisfaction.
 2. **Age Groups**:
-   - Certain age groups exhibit higher attrition rates, providing an opportunity to create targeted retention strategies..
+   - Certain age groups exhibit higher attrition rates, providing an opportunity to create targeted retention strategies.
 3. **Department Trends**:
    - Specific departments have higher attrition rates, indicating areas requiring deeper analysis.
 4. **Education Fields**:
@@ -36,31 +36,30 @@ The **HR Analytics Dashboard** provides an insightful and interactive visualizat
 ![screenshot](https://github.com/sumanthsadala/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png?raw=true)
 
 ## How to Use
-1. Open the `Bike_Sales_Dashboard.xlsx` file in Microsoft Excel.
-2. Use the slicers to filter the data by marital status, region, or education.
-3. Explore the interactive visualizations to uncover trends and insights.
+1. Open the `HR Analytics Dashboard.twbx` file in Tableau.
+2. Explore the dashboard using filters to gain insights into employee attrition across various dimensions like departments, education fields, and gender.
+3. Use the insights to develop strategies for reducing attrition and improving employee satisfaction.
 
 ## Tools & Skills Demonstrated
-- **Tools**: Microsoft Excel (PivotTables, PivotCharts, and Slicers).
+- **Tools**: Tableau, Excel
 - **Skills**:
-  - Data Cleaning and Transformation
-  - Data Visualization
-  - Dashboard Design and Interactivity
+  - Data Cleaning and Preparation
+  - Advanced-Data Visualization
+  - Dashboard Design and Interactivity with custom background integration
 
 ## About the Dataset
 The dataset used for this dashboard includes:
-- **Customer Demographics**: Gender, Age, Marital Status, Education, and Region.
-- **Purchase Information**: Bike purchase status and commute distances.
-- **Income Details**: Average income per customer.
+- **Employee Information**: Job roles, departments, and education fields.
+- **Attrition Metrics**: Gender, age groups, and job satisfaction.
+- **Organizational Data**: Department-wise and education field-wise attrition rates.
 
 ## Key Takeaways
-This project demonstrates the power of Excel in creating interactive dashboards that allow users to:
-- Filter and analyze large datasets.
-- Draw actionable insights from visual representations of data.
+This project demonstrates the power of Tableau in visualizing employee attrition trends and empowering HR professionals to:
+- Identify critical patterns and factors influencing attrition.
+- Make data-driven decisions to address areas of concern.
+- Develop actionable strategies to improve employee retention and satisfaction.
 
 
-Please make sure to update tests as appropriate.
 
+Feel free to modify it further as needed!
 
-##
-Happy analyzing and exploring the data with the Excel dashboard!
