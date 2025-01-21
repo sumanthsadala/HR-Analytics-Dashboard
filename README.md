@@ -28,7 +28,7 @@ The **Bike Sales Dashboard** provides an interactive and comprehensive analysis 
 - `Dashboard.png`: The screenshot of the Bike Sales Dashboard.
 - `Bike_Sales_Dashboard.xlsx`: The Excel file containing the data and dashboard.
 
-![screenshot](https://github.com/sumanthsadala/HR-Analytics-Dashboard/blob/main/HR Analytics Dashboard.png)
+![screenshot](https://github.com/sumanthsadala/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png?raw=true)
 
 ## How to Use
 1. Open the `Bike_Sales_Dashboard.xlsx` file in Microsoft Excel.
