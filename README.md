@@ -25,7 +25,8 @@ The **HR Analytics Dashboard** provides an insightful and interactive visualizat
 3. **Department Trends**:
    - Specific departments have higher attrition rates, indicating areas requiring deeper analysis.
 4. **Education Fields**:
-   -Attrition patterns vary across employees from different educational backgrounds.
+     - Specific departments have higher attrition rates, indicating areas requiring 
+   - Attrition patterns vary across employees from different educational backgrounds.
 
 ## Files Included
 - `Dashboard.png`: The screenshot of the Bike Sales Dashboard.
