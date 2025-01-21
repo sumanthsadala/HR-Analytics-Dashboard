@@ -5,24 +5,27 @@ The **HR Analytics Dashboard** provides an insightful and interactive visualizat
 
 ## Features
 - **Dynamic Filters**:
-  - Marital Status
-  - Region
-  - Education Level
+  - Department
+  - Age Groups
+  - Education Fields
 - **Key Metrics**:
-  - Average Income per Purchase (by Gender)
-  - Bike Purchases by Customer Age Brackets
-  - Commute Distance Analysis
+  - Job Satisfaction Rating
+  - Department wise Attrition
+  - Number of Employees by Age Group
+  - Education Field wise Attrition
+  - Gender-based Attrition Rate for Different Age Groups
 - **Visualizations**:
-  - Bar Charts, Line Charts, and Interactive Elements for detailed insights.
+  - Bar Charts, Pie Charts, and Highlight Tables designed for a detailed and clear analysis.
 
 ## Insights
-1. **Income Trends**:
-   - Male customers with a bike purchase have higher average income compared to those without.
-   - Similar trends are observed for female customers.
-2. **Age Brackets**:
-   - Middle-aged customers dominate bike purchases compared to other age groups.
-3. **Commute Distance**:
-   - Customers living 0-1 miles away show higher bike purchase rates.
+1. **Job Satisfaction**:
+   - Job Satisfaction of the employees has been rated from 1-4, 1 is for low satisfaction and 4 is for high satisfaction.
+2. **Age Groups**:
+   - Certain age groups exhibit higher attrition rates, providing an opportunity to create targeted retention strategies..
+3. **Department Trends**:
+   - Specific departments have higher attrition rates, indicating areas requiring deeper analysis.
+4. **Education Fields**:
+   -Attrition patterns vary across employees from different educational backgrounds.
 
 ## Files Included
 - `Dashboard.png`: The screenshot of the Bike Sales Dashboard.
