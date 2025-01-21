@@ -1,7 +1,7 @@
 # HR Analytics Dashboard
 
 ## Overview
-The **Bike Sales Dashboard** provides an interactive and comprehensive analysis of bike sales data. It highlights customer demographics, purchasing behaviors, and key insights into factors influencing bike purchases. This dashboard enables businesses to identify trends, understand their customer base, and make data-driven decisions.
+The **HR Analytics Dashboard** provides an insightful and interactive visualization of employee attrition data. By analyzing various aspects such as job satisfaction, department-wise attrition, age group distribution, and gender-based trends, this dashboard enables HR professionals to identify patterns and make informed decisions to improve employee retention.
 
 ## Features
 - **Dynamic Filters**:
