@@ -29,7 +29,7 @@ The **HR Analytics Dashboard** provides an insightful and interactive visualizat
 
 ## Files Included
 - `Dashboard.png`: The screenshot of the Bike Sales Dashboard.
-- 'HR Analytics Dashboard.twbx' : Tableau workbook containing the complete dashboard and underlying data visualizations.
+- 'HR Analytics Dashboard.twbx': Tableau workbook containing the complete dashboard and underlying data visualizations.
 - `Bike_Sales_Dashboard.xlsx`: The Excel file containing the data and dashboard.
 
 ![screenshot](https://github.com/sumanthsadala/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png?raw=true)
