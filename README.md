@@ -1,4 +1,4 @@
-# Bike Sales Dashboard
+# HR Analytics Dashboard
 
 ## Overview
 The **Bike Sales Dashboard** provides an interactive and comprehensive analysis of bike sales data. It highlights customer demographics, purchasing behaviors, and key insights into factors influencing bike purchases. This dashboard enables businesses to identify trends, understand their customer base, and make data-driven decisions.
